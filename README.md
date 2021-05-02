@@ -1,7 +1,7 @@
 # Cus-Be-An
 A service that can perform customer churn and behavior prediction and help companies save millions in revenue
 
-#See the live demo at:https://cus-bean.herokuapp.com/
+# See the live demo at:https://cus-bean.herokuapp.com/
 
 # Objective
 In E-Commerce or startups, the relationship between businesses and customers are non-contractual relationship. In the non-contractual world, customers do go away, but they do so silently; they have no need to tell us they are leaving. This makes for a much trickier CLV calculation. We have to look at the time since a customer’s last transaction and ask a question: is the customer alive but dormant, or is the customer “dead” (“alive” means customers interact with us, “die” means they become inactive as customers)?
