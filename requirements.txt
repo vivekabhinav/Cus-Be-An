@@ -1,0 +1,12 @@
+matplotlib 
+chart_studio
+pandas
+seaborn 
+streamlit 
+plotly 
+numpy 
+scikit_learn
+datetime
+catboost
+xgboost
+lightgbm
